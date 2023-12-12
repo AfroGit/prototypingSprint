@@ -4,6 +4,8 @@
 	<masterLabel>Bonanza card</masterLabel>
 	<description>To asssit client with data validation and hygiene.</description>
 	<targets>
-		<target>lightning__Tab</target>
-	</targets>
+        <target>lightning__AppPage</target>
+        <target>lightning__RecordPage</target>
+        <target>lightning__HomePage</target>
+    </targets>
 </LightningComponentBundle>
